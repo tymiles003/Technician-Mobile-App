@@ -8,6 +8,10 @@
 
         }
 
+        $scope.logIn = function(){
+            console.log("log in");
+        };
+
         $q.all($scope.bootPromiseHash).then(function (resultHash) {
             $log.log("bootPromiseHash.then");
 

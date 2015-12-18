@@ -87,6 +87,16 @@ module.exports = function (grunt) {
          */
         copy: {
             //copy everything from src/assets into dest/assets
+            build_assets: {
+              files: [
+                  {
+                      src: ['**'],
+                      dest: '<%= build_dir %>/assets/',
+                      cwd: 'src/assets',
+                      expand: true
+                  }
+                ]
+            },
             build_app_assets: {
                 files: [
                   {
