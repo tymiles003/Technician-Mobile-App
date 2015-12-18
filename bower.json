@@ -1,0 +1,25 @@
+{
+  "name": "first-app",
+  "version": "0.0.1",
+  "devDependencies": {},
+  "dependencies": {
+    "angular": "1.3",
+    "angular-apimock": "0.1.6",
+    "angular-i18n": "~1.3",
+    "angular-mocks": "~1.3",
+    "angular-messages": "~1.3",
+    "angular-moment": "~0.7.0",
+    "angular-bootstrap": "0.12.0",
+    "angular-ui-router": "~0.2",
+    "angular-ui-utils": "0.0.3",
+    "angular-webstorage": "~0.10.3",
+    "bootstrap": "3.3.1",
+    "moment": "~2.5",
+    "jquery": "~1.10.0",
+    "jqueryui": "~1.10.4",
+    "stacktrace": "~0.6.0"
+  },
+  "resolutions": {
+    "angular": "1.3.20"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "firstapp",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://a_faire",
+  "licenses": {
+    "type": "MIT"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "connect-livereload": "^0.5.4",
+    "grunt": "~0.4.5",
+    "grunt-bump": "0.3.0",
+    "grunt-complexity": "~0.3.0",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-concat": "~0.5.1",
+    "grunt-contrib-connect": "~0.9.0",
+    "grunt-contrib-copy": "~0.8.0",
+    "grunt-contrib-jshint": "~0.11.1",
+    "grunt-contrib-less": "1.0.0",
+    "grunt-contrib-uglify": "~0.8.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-conventional-changelog": "~1.1.0",
+    "grunt-html2js": "~0.3.0",
+    "grunt-karma": "~0.10.1",
+    "grunt-ng-annotate": "~0.10.0",
+    "jasmine-core": "^2.4.1",
+    "karma": "~0.12.0",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-firefox-launcher": "^0.1.4",
+    "karma-html2js-preprocessor": "0.1.0",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-requirejs": "0.2.2",
+    "karma-script-launcher": "0.1.0",
+    "load-grunt-tasks": "3.1.0",
+    "requirejs": "2.1.16"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "directory": "vendor",
+    "json": "bower.json",
+    "strict-ssl":false,
+    "timeout":120000,
+    "analytics":false
+}
